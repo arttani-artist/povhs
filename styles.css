@@ -1,24 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: Poppins, sans-serif;
     margin: 0;
     padding: 0;
     text-align: center;
-    background-image: url('https://source.unsplash.com/1600x900/?sky,landscape'); /* Change this URL */
-    background-size: cover;
-    background-position: center;
+    text-align: center;
+   background: linear-gradient(217deg, rgba(0, 116, 164, 0.8), rgba(255,0,0,0) 70.71%),
+               linear-gradient(127deg, rgba(0, 98, 93, 0.8), rgba(0,255,0,0) 70.71%),
+               linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
     color: white;
 }
 
 nav {
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 29, 66, 0.8);
     padding: 15px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
 }
 
+nav a:hover {
+    color: #191963;
+}
 nav a {
-    color: white;
+   color: white;
     text-decoration: none;
     font-size: 18px;
     margin: 0 15px;
+    font-weight: 600;
+    transition: 0.3s;
 }
 
 h1 {
@@ -31,26 +43,37 @@ p {
 }
 
 .content {
-    background: rgba(0, 0, 0, 0.6); /* Dark semi-transparent box */
-    display: inline-block;
+    background: rgba(0, 0, 127, 0.8); 
     padding: 20px;
     border-radius: 10px;
-    margin-top: 100px;
+    display: inline-block;
+    margin-top: 120px;
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 600;
+}
+
+p {
+    font-size: 18px;
 }
 
 .btn {
     display: inline-block;
-    margin-top: 20px;
-    padding: 10px 20px;
+    padding: 12px 24px;
     font-size: 18px;
-    color: white;
-    background: #ff6600;
+    color: blue;
+    background: #191963;
     border: none;
     cursor: pointer;
     text-decoration: none;
     border-radius: 5px;
+    font-weight: 600;
+    transition: 0.3s;
 }
 
 .btn:hover {
-    background: #ff4500;
+    background: #0041accc;
+    transform: scale(1.05);
 }
