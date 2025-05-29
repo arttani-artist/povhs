@@ -100,3 +100,9 @@ p {
     background: #0041accc;
     transform: scale(1.05);
 }
+body {
+  background-image: url('your-art.png');
+  background-size: cover; /* or contain/repeat */
+  background-position: center;
+  background-repeat: no-repeat;
+}
