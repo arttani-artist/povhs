@@ -12,29 +12,31 @@
   text-align: center;
 }
 
+
 body {
   background-color: var(--background);
   color: var(--text);
-    font-family: Poppins, sans-serif;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    text-align: center;
-   background: rgba(28,32,51,1)
+  font-family: Poppins, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+
+  background: rgba(28,32,51,1); 
   background-image: url('Untitled-Artwork.png');
-  background-size: cover; /* or contain/repeat */
+  background-size: cover;
   background-position: center;
   background-repeat: repeat;
 }
 
+
 .letter-container {
-    max-width: 800px;            /* keeps it from stretching too wide */
+    max-width: 800px;            
     margin: 0 auto;              /* centers the content horizontally */
-    padding: 40px 20px;          /* adds breathing room inside the box */
-    text-align: left;            /* optional: keeps letter format tidy */
-    line-height: 1.6;            /* improves readability */
-    color: #ccccff;              /* keeps your color theme */
-    font-size: 18px;             /* makes it legible on most screens */
+    padding: 40px 20px;          /* adds room inside box */
+    text-align: left;          
+    line-height: 1.6;           
+    color: #ccccff;             
+    font-size: 18px;             
 }
 
 nav {
