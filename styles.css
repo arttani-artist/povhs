@@ -23,7 +23,7 @@ body {
 
   background: rgba(28,32,51,1); 
   background-image: url('Untitled_Artwork.png');
-  background-size: cover;
+  background-size: 80px;
   background-position: center;
   background-repeat: repeat;
 }
