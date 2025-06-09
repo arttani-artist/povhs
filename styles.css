@@ -35,16 +35,18 @@ body.home {
 }
 */
 body.home::before {
+  /*
   content: "";
   position: fixed;
   top: 0;
   left: 0;
   height: 100%;
-  width: 100%;
+  width: 100%;*/
   background-image: url('Untitled_Artwork.png');
   background-size: 80px;
   background-repeat: repeat;
   background-position: center;
+  background-color: rgba(28, 32, 51, 1);
   opacity: 0.3; 
   z-index: -1;
 }
