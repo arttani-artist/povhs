@@ -25,7 +25,7 @@ body {
   z-index: 0;
 }
 
-/*
+
 body.home {
   background-image: url('Untitled_Artwork.png');
   background-size: 80px;
@@ -33,7 +33,7 @@ body.home {
   background-position: center;
   background-color: rgba(28, 32, 51, 1);
 }
-*/
+
 body.home::before {
  
   content: "";
