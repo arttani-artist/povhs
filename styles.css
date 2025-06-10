@@ -73,7 +73,7 @@ body.about::before {
   opacity: 0.3; 
   z-index: -1;
 }
-/*
+
 body.letters {
   background-size: 80px;
   background-repeat: repeat;
@@ -89,7 +89,7 @@ body.letters::before {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url('Untitled_Artwork.png');
+  background-image: url('mailbox.png');
   background-size: 80px;
   background-repeat: repeat;
   background-position: center;
@@ -97,7 +97,7 @@ body.letters::before {
   opacity: 0.3; 
   z-index: -1;
 }
-
+/*
 body.poetry {
   background-size: 80px;
   background-repeat: repeat;
