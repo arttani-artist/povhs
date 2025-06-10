@@ -268,7 +268,7 @@ p {
 }
 
 h1 {
-    font-size: 42px;
+    font-size: 36px;
     font-weight: 600;
 }
 
@@ -280,7 +280,7 @@ p {
     display: inline-block;
     padding: 12px 24px;
     font-size: 18px;
-    color: blue;
+    color: white;
     background: #191963;
     border: none;
     cursor: pointer;
