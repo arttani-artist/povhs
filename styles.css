@@ -27,7 +27,7 @@ body {
 
 
 body.home {
-  background-image: url('Untitled_Artwork.png');
+  /*background-image: url('Untitled_Artwork.png');*/
   background-size: 80px;
   background-repeat: repeat;
   background-position: center;
@@ -50,8 +50,182 @@ body.home::before {
   opacity: 0.3; 
   z-index: -1;
 }
+/*
+body.about {
+  background-image: url('...');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+}
 
+body.about::before {
+ 
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('...');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+  opacity: 0.3; 
+  z-index: -1;
+}
 
+body.letters {
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+}
+
+body.letters::before {
+ 
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+  opacity: 0.3; 
+  z-index: -1;
+}
+
+body.poetry {
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+}
+
+body.poetry::before {
+ 
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+  opacity: 0.3; 
+  z-index: -1;
+}
+
+body.art {
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+}
+
+body.art::before {
+ 
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+  opacity: 0.3; 
+  z-index: -1;
+}
+
+body.posts {
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+}
+
+body.posts::before {
+ 
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+  opacity: 0.3; 
+  z-index: -1;
+}
+
+body.contact {
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+}
+
+body.contact::before {
+ 
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+  opacity: 0.3; 
+  z-index: -1;
+}
+
+body.editor {
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+}
+
+body.editor::before {
+ 
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url('Untitled_Artwork.png');
+  background-size: 80px;
+  background-repeat: repeat;
+  background-position: center;
+  background-color: rgba(28, 32, 51, 1);
+  opacity: 0.3; 
+  z-index: -1;
+}
+*/
 
 .letter-container {
     max-width: 800px;            
