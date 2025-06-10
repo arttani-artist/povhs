@@ -9,13 +9,9 @@
   max-width: 800px;
   margin: 120px auto 40px auto;  
   padding: 40px 20px;
-  
-
-  background: rgba(0, 0, 0, 0.5); 
+  background: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-  backdrop-filter: blur(4px);
-
 }
 
 
