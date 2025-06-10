@@ -219,7 +219,7 @@ body.editor::before {
 }
 
 
-.letter-container {
+.content {
     max-width: 800px;            
     margin: 0 auto;              /* centers the content horizontally */
     padding: 40px 20px;          /* adds room inside box */
