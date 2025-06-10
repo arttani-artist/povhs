@@ -145,7 +145,7 @@ body.art::before {
   opacity: 0.3; 
   z-index: -1;
 }
-/*
+
 body.posts {
   background-size: 80px;
   background-repeat: repeat;
@@ -161,7 +161,7 @@ body.posts::before {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url('Untitled_Artwork.png');
+  background-image: url('blogpost.png');
   background-size: 80px;
   background-repeat: repeat;
   background-position: center;
@@ -169,7 +169,7 @@ body.posts::before {
   opacity: 0.3; 
   z-index: -1;
 }
-
+/*
 body.contact {
   background-size: 80px;
   background-repeat: repeat;
