@@ -193,7 +193,7 @@ body.contact::before {
   opacity: 0.3; 
   z-index: -1;
 }
-/*
+
 body.editor {
   background-size: 80px;
   background-repeat: repeat;
@@ -209,7 +209,7 @@ body.editor::before {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url('Untitled_Artwork.png');
+  background-image: url('editor.png');
   background-size: 80px;
   background-repeat: repeat;
   background-position: center;
@@ -217,7 +217,7 @@ body.editor::before {
   opacity: 0.3; 
   z-index: -1;
 }
-*/
+
 
 .letter-container {
     max-width: 800px;            
