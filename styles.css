@@ -74,14 +74,14 @@ body.about::before {
   z-index: -1;
 }
 
-body.letters {
+body.letter {
   background-size: 80px;
   background-repeat: repeat;
   background-position: center;
   background-color: rgba(28, 32, 51, 1);
 }
 
-body.letters::before {
+body.letter::before {
  
   content: "";
   position: fixed;
