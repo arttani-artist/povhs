@@ -49,7 +49,7 @@ body.home::before {
   opacity: 0.3; 
   z-index: -1;
 }
-/*
+
 body.about {
   background-size: 80px;
   background-repeat: repeat;
@@ -65,7 +65,7 @@ body.about::before {
   left: 0;
   height: 100%;
   width: 100%;
-  background-image: url('...');
+  background-image: url('questionmark.png');
   background-size: 80px;
   background-repeat: repeat;
   background-position: center;
@@ -73,7 +73,7 @@ body.about::before {
   opacity: 0.3; 
   z-index: -1;
 }
-
+/*
 body.letters {
   background-size: 80px;
   background-repeat: repeat;
