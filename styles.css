@@ -302,3 +302,14 @@ p {
     background: #0041accc;
     transform: scale(1.05);
 }
+a {
+  color: #89CFF0; 
+  text-decoration: underline;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
