@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body class="posts">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PSA: What the Hell Is Going On?</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="download.png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="letters.html">Letters</a>
+        <a href="poetry-prose.html"> Poetry and Prose</a>
+        <a href="art.html"> Art</a>
+        <a href="posts.html"> Posts</a>
+        <a href="contact.html">Contact</a>
+        <a href="from-the-editor.html"> From the Editor</a>
+    </nav>
+
+    <div class="content">
+        <h1>PSA: What the Hell Is Going On?</h1>
+            <p>Written by: The Editor<br>
+
+    </div>
+
+</body>
+</html>
+
+
+</head>
+<body>
+  <div class="letter-container">
+<p>Right now, the U.S. just bombed <b>three nuclear sites in Iran</b>. This comes after Israel and Iran have been trading missiles for days, and now the U.S. has officially stepped in. People are calling this the closest we’ve been to <b>World War III</b> in years.<br>Iran might retaliate. Other countries might get pulled in. No one knows what’s next, but the stakes are huge.<br>Meanwhile, gas prices are spiking. Not just because of “inflation,” but because when the Middle East is unstable, oil prices go up. And that hits students, workers, and families before it hits anyone in office.<br>This is serious. This isn’t just politics or headlines-it’s about our future. We’re the ones who’ll inherit whatever happens next.<br><b>Stay aware. Stay loud. Know what’s going on, even if they want us tuned out.</b></p>
+</div>
+</body>
+
+    <div id="disqus_thread"></div>
+<script>
+    
+    var disqus_config = function () {
+    this.page.url = this.page.url = 'https://arttani-artist.github.io/povhs/psa-wth.html';  
+    this.page.identifier = this.page.identifier = 'psa-wth'; 
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-arttani-artist-github-io-povhs.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<script id="dsq-count-scr" src="//https-arttani-artist-github-io-povhs.disqus.com/count.js" async></script>
+</html>
