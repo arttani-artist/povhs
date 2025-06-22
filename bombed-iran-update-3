@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body class="posts">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trump Addresses Nation After Airstrikes on Iranian Nuclear Sites</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" href="download.png">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="letters.html">Letters</a>
+        <a href="poetry-prose.html"> Poetry and Prose</a>
+        <a href="art.html"> Art</a>
+        <a href="posts.html"> Posts</a>
+        <a href="contact.html">Contact</a>
+        <a href="from-the-editor.html"> From the Editor</a>
+    </nav>
+
+    <div class="content">
+        <h1>Trump Addresses Nation After Airstrikes on Iranian Nuclear Sites</h1>
+            <p>By: The Editor<br>
+
+    </div>
+
+</body>
+</html>
+
+
+</head>
+<body>
+  <div class="letter-container">
+  <p>President Donald Trump delivered a nationally televised address late Saturday night, confirming that the U.S. executed coordinated airstrikes on three Iranian nuclear facilities-Fordow, Natanz, and Esfahan. He emphasized successful mission execution and cooperation with Israel, setting a firm tone of military strength and diplomatic warning (theguardian.com).</p>
+  <p style="font-size: 22px;"><strong>Saturday Night Address Summary</strong><br></p>  
+  <p>Trump congratulated American forces: “All planes are safely on their way home.”<br>Declared the strikes “historic” and vowed that “Iran must now agree to end this war.”<br>Promoted U.S.-Israeli alignment: “This is a historic moment for the United States, Israel, and the world.”<br>Framed the strike as decisive and restrained-not seeking regime change: “Not looking for a fight … this is about nuclear capabilities.” (nzherald.co.nz).</p>
+  <p style="font-size: 22px;"><strong>Lawmakers React</strong><br></p> 
+  <p>Republican support: Hawks like Sen. Lindsey Graham and Sen. John Fetterman applauded the strikes as vital for preventing a nuclear-armed Iran (apnews.com).<br>Constitutional concerns: Cross-party critics, including Rep. Thomas Massie, Rep. Ro Khanna, and Sen. Bernie Sanders, warned the action lacked Congressional approval and threatened unchecked executive war power (theguardian.com).<br>Internal MAGA unease: A segment of the MAGA base expressed concern over escalation and lack of congressional input (politico.com).</p>
+  <p style="font-size: 22px;"><strong>Global Implications & Next Steps</strong><br></p>  
+  <p>Trouble in the Middle East: Iran has warned of severe retaliation-raising fears of regional war.<br>Diplomatic setback: Trump cited swift military action as an alternative to diplomacy, deeming recent Geneva talks “time-consuming and ineffective”.<br>Congressional pressure: Proposals for a War Powers resolution are emerging to curtail future unilateral strikes (theguardian.com).<br>Iran’s response pending: Tehran’s next move, military or diplomatic, will likely define the conflict’s trajectory.</p>
+  <p style="font-size: 22px;"><strong>What It All Means</strong><br></p>  
+  <p>Trump’s speech positioned the strikes as justified and limited-but critics question the legality and consequences. With regional tensions escalating and global eyes watching, the real test lies ahead: will this halt Iran’s nuclear ambition-or deepen a volatile spiral, sidelining diplomacy?</p>
+
+    
+  </div>
+    
+    <div id="disqus_thread"></div>
+<script>
+    
+    var disqus_config = function () {
+    this.page.url = this.page.url = 'https://arttani-artist.github.io/povhs/bombed-iran-update-3.html';  
+    this.page.identifier = this.page.identifier = 'bombed-iran-update-3'; 
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-arttani-artist-github-io-povhs.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<script id="dsq-count-scr" src="//https-arttani-artist-github-io-povhs.disqus.com/count.js" async></script>
+    
+</body>
+</html>
